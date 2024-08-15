@@ -1,1 +1,1 @@
-## Peer reviewed pulications
+## Peer reviewed publications
