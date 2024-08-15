@@ -1,2 +1,2 @@
-[ABOUT ME](./another-page.html)&5bsp[PUBLICATIONS](./another-page2.html) 
+[ABOUT ME](./another-page.html) &nbsp; [PUBLICATIONS](./another-page2.html) 
 
