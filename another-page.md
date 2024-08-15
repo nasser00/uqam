@@ -1,9 +1,4 @@
----
-layout: default
----
 
-## Welcome to another page
+## My Biography
 
-_yay_
-
-[back](./)
+Nasser received his Ph.D. degree in geophysics from the University of Alberta, Edmonton, AB, Canada, in 2017. From 2012 to 2017, he worked with the Signal Analysis and Imaging Group on imaging and signal processing applications. Nasser also collaborated with the Statoil ASA Research Group in Trondheim, Norway, in 2014. In 2017, he joined the University of Calgary as a Postdoctoral Associate at the Schulich School of Engineering Department and developed imaging and drilling automation solutions. Nasser also collaborated with the energy industry and Innovate Calgary to commercialize his research findings through a University spinoff. In 2022, Nasser joined the Université du Québec à Montréal (UQAM) as an assistant professor of applied geophysics. At UQAM, Nasser is interested in intelligent and interdisciplinary signal processing, imaging, and monitoring research.  
