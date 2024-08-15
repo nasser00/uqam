@@ -6,6 +6,6 @@ Kpole Sylvestre Bile (MSc Professional program), 2024 <img src="https://nasser00
 ## Undergraduate students
 Rémy Canuel (BSc Geology-Geophysics), 2024, <img src="https://nasser00.github.io/uqam/assets/img/logo.png" alt="Description" width="28" height="28"> <br >
 ## Past Students
-Naveen Naveen (MSC- summer intern), UQAM, 2024 (currently IIT Bombay) <img src="https://nasser00.github.io/uqam/assets/img/logo.png" alt="Description" width="28" height="28"><br >
+Naveen Naveen (MSc- summer intern), UQAM, 2024 (currently IIT Bombay) <img src="https://nasser00.github.io/uqam/assets/img/logo.png" alt="Description" width="28" height="28"><br >
 Mohamed Amine Lahyani (MSc Professional program), UQAM, 2023 (currently UQAM) <img src="https://nasser00.github.io/uqam/assets/img/logo.png" alt="Description" width="28" height="28"><br >
 Wafa Mansouri (MSc Professional program), UQAM, 2023 (currently WSP)<img src="https://nasser00.github.io/uqam/assets/img/logo.png" alt="Description" width="28" height="28"><br >
