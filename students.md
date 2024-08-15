@@ -1,3 +1,3 @@
 ## Current Students
 
-Student 1 (Phd) <img src="/assets/img/my_github_pic.jpeg" alt="Student1" width="28" height="28"> 
+Student 1 (Phd) <img src="/assets/img/my_github_pic.jpeg" alt="Student1" width="128" height="128"> 
