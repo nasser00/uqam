@@ -1,5 +1,4 @@
-<h1 style="font-size:5vw">About me</h1> (./another-page.html)
-
+ [<h1 style="font-size:5vw">About me</h1>](./another-page.html)
 
 
 
